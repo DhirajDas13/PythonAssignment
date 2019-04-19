@@ -1,0 +1,6 @@
+Hello world
+Data preprocessing is an important task in text 
+classification. With emergence of Python in the field of data science, 
+it is essential to have certain shorthands to have upper hand among others. This article discusses ways 
+to count words in a sentence, it starts with space separated words but also includes ways to in presence
+of special characters as well. Let's discuss certain ways to perform this.

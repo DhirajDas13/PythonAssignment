@@ -1,0 +1,14 @@
+Count of words per line: 
+2
+8
+11
+17
+19
+12
+Count of letters per line: 
+10
+40
+60
+87
+86
+63
